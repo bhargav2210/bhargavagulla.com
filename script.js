@@ -1,7 +1,7 @@
 // Typed Text
 document.addEventListener('DOMContentLoaded', () => {
     const typed = new Typed('.typing-text', {
-        strings: ['Frontend Developer', 'Web Developer', 'Youtuber'],
+        strings: ['Cybersecurity Analyst', 'Security Engineer'],
         typeSpeed: 70,
         backSpeed: 70,
         backDelay: 1000,
